@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Developer Portfolio</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    body {
+      line-height: 1.6;
+      background-color: #000000;
+    }
+
+    header {
+      background-color: #baa808;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    nav {
+      display: flex;
+      justify-content: center;
+      background: #444;
+      flex-wrap: wrap;
+    }
+
+    nav a {
+      color: #fff;
+      padding: 15px 20px;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
+
+    nav a:hover {
+      background-color: #000000;
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    #about {
+      background-color: #fff;
+      text-align: center;
+    }
+
+    #projects {
+      background-color: #fefefe;
+    }
+
+    .project {
+      background: white;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    #contact {
+      background-color: #fff;
+      text-align: center;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #000000;
+      color: #fff;
+    }
+
+    @media (max-width: 600px) {
+      nav a {
+        flex: 1 0 100%;
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1 
+    style="font-family:'Times New Roman', Times, serif , sans-serif; font-weight: bold;">
+      Amaan Siddiqui
+    </h1>
+    <p> Frontend Developer</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm a passionate frontend developer specializing in creating responsive and dynamic websites using HTML, CSS, and JavaScript.</p>
+  </section>
+
+  <section id="projects">
+    <h1>Projects</h1>
+    <div class="project">
+      <h3>Project One</h3>
+      <p>Interactive Quiz Application</p>
+    </div>
+    <div class="project">
+      <h3>Project Two</h3>
+      <p>Real-time Chat Application</p>
+    </div>
+    <div class="project">
+      <h3>Project Three</h3>
+      <p>Personal Portfolio website template built for other developers.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: amaansidique@example.com</p>
+    <p>GitHub: github.com/amaansiddiqui</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 amaansiddiqui. All rights reserved.</p>
+  </footer>
+</body>
+
+</html>
