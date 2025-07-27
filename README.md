@@ -70,11 +70,11 @@ The layout adjusts beautifully across devices using CSS media queries, ensuring 
 ---
 
 ## 📄 License
-
 This project is open-source and free for personal or educational use.
 
 
 OUTPUT:
 
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/f6c3402a-7df4-4d3b-bb33-a20a37da5acd" />
 
 
