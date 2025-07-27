@@ -51,8 +51,6 @@ index.html        # Complete HTML, CSS, and structure in one file
 - **Name:** Amaan Siddiqui  
 - **Role:** Frontend Developer  
 - **GitHub:** [github.com/amaansiddiqui](https://github.com/amaansiddiqui)  
-- **Email:** amaansidique@example.com
-
 ---
 
 ## 💻 Projects Included
