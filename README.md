@@ -1,4 +1,18 @@
-# 💼 Developer Portfolio Website
+# Developer Portfolio Website
+
+*COMPANY: CODTECH IT SOLUTIONS
+
+"NAME: Mohammad Amaan siddiqui
+
+"INTERN ID": CT12DH603
+
+"DOMAIN: FRONT END WEB DEVELOPMENT
+
+"DURATION: 3 months
+
+"MENTOR': NEELA SANTOSH
+
+
 
 A clean and responsive personal portfolio website built with **HTML** and **CSS** to showcase your projects, skills, and contact information. Ideal for frontend developers looking to establish an online presence.
 
@@ -58,3 +72,9 @@ The layout adjusts beautifully across devices using CSS media queries, ensuring 
 ## 📄 License
 
 This project is open-source and free for personal or educational use.
+
+
+OUTPUT:
+
+
+
